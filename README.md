@@ -20,8 +20,8 @@
 <p align="center">
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://stackoverflow.com/users/8167963/sakurush" target="blank"><img align="center" src="https://user-images.githubusercontent.com/40847596/149091442-cdfcbd69-d1fd-4c28-b7ad-329ae4f0ded4.png" alt="hi,dude!" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sakurush/" target="blank"><img align="center"src="https://user-images.githubusercontent.com/40847596/149091752-92208784-0596-4c0f-a41d-f0ee5c456d54.png" alt="hi,dude!" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10516843/roosri-hettiarachchi" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/40847596/149091442-cdfcbd69-d1fd-4c28-b7ad-329ae4f0ded4.png" alt="hi,dude!" height="35" width="40" /> </a>
+<a href="https://www.facebook.com/sakurush/" target="blank"></a>
 <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="hi,dude!" height="30" width="40" /></a>
 <a href="mailto:roosrichalingahettiarachchi@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/40847596/149092099-44d4bc64-3381-43b2-9c34-8ddb12701e29.png" alt="hi,dude!" height="30" width="40" /></a>
 <hr>
