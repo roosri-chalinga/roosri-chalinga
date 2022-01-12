@@ -18,7 +18,7 @@
 - 📫 You can reach me: [Linkedin](https://www.linkedin.com/in/roosri/) [Gmail](mailto:roosrichalingahettiarachchi@gmail.com)
 
 <p align="center">
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:  <img align="center" src="https://user-images.githubusercontent.com/40847596/149098830-9470705c-0bdc-4f01-9682-9d330f8bb77b.gif" alt="hi,dude!" height="35" width="40" /> </h3>
 
 <a href="https://www.linkedin.com/in/roosri" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hi,dude!" height="35" width="40" /> </a><a href="https://stackoverflow.com/users/10516843/roosri-hettiarachchi" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/40847596/149091442-cdfcbd69-d1fd-4c28-b7ad-329ae4f0ded4.png" alt="hi,dude!" height="35" width="40" /></a><a href="https://www.facebook.com/roosrichalingahettiarachchi/" target="blank"></a><a href="https://open.spotify.com/user/31ti7jt6qagskuoondmfxpvum2by" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="hi,dude!" height="30" width="40" /></a><a href="mailto:roosrichalingahettiarachchi@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/40847596/149095354-24680ef4-8594-4599-a160-07678c19a940.png" alt="hi,dude!" height="30" width="50" /></a>
 
