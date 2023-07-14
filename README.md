@@ -11,10 +11,10 @@
 
 <img width="40%" align="right" alt="Github" src="https://user-images.githubusercontent.com/40847596/149095059-e8cf5a3e-b05b-4c7c-8d86-350d97fb0b39.gif" />
 
-<h4>I'm a Full-stack Developer who is passionate about writing code, solving problems, automating stuff, and building software. </h4>
+<h4>I'm a Moodle | WordPress | Laraval | Codignator developer. who is passionate about writing code, solving problems, automating stuff, and building software. </h4>
 
-- 🔭 I’m currently working at Sampath IT Soloutions as a Software Engineer.
-- 📚 I’m currently learning New technologies.
+- 🔭 I’m currently working at Sampath IT Solutions as a Web Development Team Lead.
+- 📚 I’m currently Learning New technologies.
 - 📫 You can reach me: [Linkedin](https://www.linkedin.com/in/roosri/) [Gmail](mailto:roosrichalingahettiarachchi@gmail.com)
 
 <p align="center">
