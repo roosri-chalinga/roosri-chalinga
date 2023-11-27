@@ -11,14 +11,9 @@
 
 <img width="40%" align="right" alt="Github" src="https://user-images.githubusercontent.com/40847596/149095059-e8cf5a3e-b05b-4c7c-8d86-350d97fb0b39.gif" />
 
-<h4> 🚀 In my coding journey, I've delved into the realms of UI Path RPA, mastering the art of streamlining processes with automation. My expertise extends to Core PHP development, where I revel in creating robust and efficient solutions. Specifically, my skills shine in WordPress plugin development, contributing innovative solutions to enhance the WordPress ecosystem. Additionally, I've ventured into IPG (Integrated Payment Gateway) plugin development, adding a layer of financial efficiency to WordPress websites.</h4>
-
-<h4>☁️ When it comes to the cloud, I'm well-versed in the Azure Portal and proficient in leveraging GCP services. My toolkit also includes the mastery of Cloudflare services, ensuring that web applications are not just functional but also performant and secure in the ever-evolving digital landscape.</h4>
-
-<h4>🐧 On the server side, I navigate the realms of Red Hat and Linux-based operating systems with ease. Whether it's configuring servers, optimizing performance, or troubleshooting, I bring a wealth of experience to the table.</h4>
+<h4>🚀 I'm Roosri, a tech sorcerer passionate about Moodle, WordPress, Laravel, and CodeIgniter. From mastering UI Path RPA to crafting sleek WordPress plugins and diving into the cloud with Azure, GCP, and Cloudflare – I turn complexity into code elegance. 🌐 Let's connect and code some magic! ✨💻 </h4>
 
 - 🔭 I’m currently working at Sampath IT Solutions as a Web Development Team Lead.
-- 📚 I’m currently Learning New technologies.
 - 📫 You can reach me: [Linkedin](https://www.linkedin.com/in/roosri/) [Gmail](mailto:roosrichalingahettiarachchi@gmail.com)
 
 <p align="center">
