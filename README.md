@@ -35,8 +35,8 @@
 ## By the way here are some of my statistics 🚀
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roosri&show_icons=true&locale=en&layout=compact&theme=radical" alt="roosri" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saku-xyz&show_icons=true&locale=en&layout=compact&theme=radical" alt="roosri" /></p>
 
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roosri&theme=radical" alt="roosri" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saku-xyz&theme=radical" alt="roosri" /></p>
  
